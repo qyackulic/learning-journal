@@ -14,4 +14,4 @@ Computrs are tools that make intellectual exercises more efficient.  Compared to
 
 Why computers are cool |  What is unkown
 ------------ | ------------- 
-They're integral tools | [Are we too dependent](/Users/qyackattack/projects/codefellows/102/ned_ludd/index.html)
+They're integral tools | [Are we too dependent](https://qyackulic.github.io/ned_ludd/)
