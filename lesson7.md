@@ -15,3 +15,11 @@ Computrs are tools that make intellectual exercises more efficient.  Compared to
 Why computers are cool |  What is unkown
 ------------ | ------------- 
 They're integral tools | [Are we too dependent](https://qyackulic.github.io/ned_ludd/)
+Fans keep computers cool | The details of how that works are still unkown, even to high-level engineers
+
+Four steps are key to computer functionality
+1. input 
+1. storage
+1. processing
+1. output
+> these four steps allow humans to use computuers without having to understand everything.  Simply, input, "wait" for output, and then recieve output.  Usually, the output is very quick.  
