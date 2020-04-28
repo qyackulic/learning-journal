@@ -13,6 +13,7 @@ I wish you the best on your studies in becoming a programmer and that you enjoy 
 1. [Lessons in the Cloud](lesson3.md) 
 1. [True Git](lesson4.md)
 1. [Web Design](lesson5.md)
-1. [HTML Lesson](lesson5.md) 
-1. [Lesson 11](https://www.youtube.com/watch?v=7KF4iJzBVWM)
+1. [HTML Lesson](lesson5.md)
+1. [CSS Design](lesson6.md)
+11. [Lesson 11](https://www.youtube.com/watch?v=7KF4iJzBVWM)
 
