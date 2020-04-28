@@ -5,4 +5,4 @@ CSS can either be used externally, that is, from a seperate git documents or sou
 
 ## Color -- ch11
 
-:rocket: Color is a useful way to flash up your website.  But, according to the book, it is important to make sure that the chosen colors do not clash too much and that one color is not over-dominant (DUckett, 255).  
+::rocket:: Color is a useful way to flash up your website.  But, according to the book, it is important to make sure that the chosen colors do not clash too much and that one color is not over-dominant (Duckett, 255).  
