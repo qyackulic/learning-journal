@@ -34,7 +34,9 @@ Functions must first be declared and then called in order to be performed.
 
 declared:
 > `function sayHello(){`
+
   `document.write('Hello!');`
+
  `}`
 
 called:
@@ -48,18 +50,20 @@ example:
 - `}` 
 
 To use such a function, the programmer needs to enter the correct __arguments__.  For example, to use the above function, the programmer would need to enter `getArea(3,5)`.  Alternatively, the programmer could set arguments as variables:
->  `wallWidth = 3;`
->  `wallHeight = 5;`
->  `getArea (wallWidth, wallHeight);`
+> `wallWidth = 3;`
+`wallHeight = 5;`
+`getArea (wallWidth, wallHeight);`
+
 Notice how the WallWidth variable and the WallHeight variable replaced the width, height variable in the original function.  
 
 Programmers can get a single value out of a function: 
 > `function calculateArea(width, height){`
-> `var area = width * height;`
-> `return area;`
-> `}`
-> `var wallOne = calculateArea (3, 5);`
-> `var wallTwo = calculateArea (8, 5);`
+`var area = width * height;`
+`return area;`
+`}`
+`var wallOne = calculateArea (3, 5);`
+`var wallTwo = calculateArea (8, 5);`
+
 This code will retrun **wallOne** to equal 15 and **wallTwo** to equal 40.  The function is called twice.  
 
 Notice how the `{}` capture the function and the `;` indicate the next line of code. 
