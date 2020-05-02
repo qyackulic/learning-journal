@@ -33,9 +33,9 @@ The result is 79 and not 16.
 Functions must first be declared and then called in order to be performed.  
 
 declared:
-`function sayHello(){`
-    `document.write('Hello!');`
-`}`
+> `function sayHello(){`
+  `document.write('Hello!');`
+ `}`
 
 called:
 `sayHello();`
