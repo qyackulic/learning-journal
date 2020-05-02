@@ -20,9 +20,9 @@ Two types of expressions:
 Expressions rely on operators, which allow programmers to create a single value from one or more values (Duckett, 75). [example](operatorsjs.jpg)
 
 String operators are another variation.  
->   `var cost1 = '7';
-    var cost2 = '9'; 
-    var total = cost1 + cost 2;'
+>   var cost1 = '7';
+>   var cost2 = '9'; 
+>   var total = cost1 + cost 2;
 
 The result is 79 and not 16.  
 
