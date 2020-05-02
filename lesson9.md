@@ -43,9 +43,10 @@ called:
 Functions can also have `parameters` like width and height.
 
 example: 
->   `function getArea(width, height){`
->   `return width * height;`
->   `}`
+- `function getArea(width, height){`
+- `return width * height;`
+- `}` 
+
 To use such a function, the programmer needs to enter the correct __arguments__.  For example, to use the above function, the programmer would need to enter `getArea(3,5)`.  Alternatively, the programmer could set arguments as variables:
 >  `wallWidth = 3;`
 >  `wallHeight = 5;`
