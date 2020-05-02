@@ -17,7 +17,7 @@ Two types of expressions:
 1. Expressions that asign a value to a variable
 2. Expressions that use two or more values to return a single value
 
-Expressions rely on operators, which allow programmers to create a single value from one or more values (Duckett, 75). [example](operatorsjs.jpg)
+Expressions rely on operators, which allow programmers to create a single value from one or more values (Duckett, 75). ![example](operatorsjs.jpg)
 
 String operators are another variation.  
    `var cost1 = '7';
