@@ -52,13 +52,13 @@ Three main types of **loop counters**, which "instruct the code to run a specifi
 
 ### _While loop_ **example**
 - (Duckett, 176):
->   var i=1;  // set counter to 1
+>   `var i=1;  // set counter to 1
     var msg=''; // message
-    `// store 5 times table in a variable`
+    // store 5 times table in a variable
     while (i<10){
     msg += i + ' x 5 = ' + (i * 5) + '<br />;
     i++;
     }
-    document.getElementById('answer').innerHTML=msg; 
+    document.getElementById('answer').innerHTML=msg;`
 
 - the above code will produce the times tables of 5 from 1 to 9. 
