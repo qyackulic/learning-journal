@@ -17,5 +17,6 @@ I wish you the best on your studies in becoming a programmer and that you enjoy 
 1. [How does a computer work? (Basics)](lesson7.md) 
 1. [Basics JavaScript](lesson8.md)
 1. [More JavaScript](lesson9.md)
+1. [Operators and Loops](Lesson10.md)
 11. [Lesson 11](https://www.youtube.com/watch?v=7KF4iJzBVWM)
 
