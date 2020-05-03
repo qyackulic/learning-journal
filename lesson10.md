@@ -30,9 +30,33 @@ Three main types of *loops*:
 **EXAMPLE**
 `for (var i=0; i<10;i++){
     document.write(i);
-}`
+}`  --> the loop will run until the condition is no longer true; when it is 10 or higher.  
 
-Three main types of loop counters:
-1. Initialization.
-2. Condition. 
-3. Update. 
+Three main types of **loop counters**, which "instruct the code to run a specified number of times."  For example:
+1. Initialization creates "a variable and set it to be 0.  THis variable is commonly called i, and it *acts as the counter*. 
+- `var i = 0` --> 
+`var i; 
+for (i=0;i<10;i++){
+    //code goes here
+}`
+2. Condition: "the loop should continue to run until the counter reaches a specified number." 
+- `i < 10;`
+`var rounds = 3;
+i < (rounds)
+3. Update: "every time the looopo has run the statements in the curly braces, it adds on to the counter"
+- `i++`
+- or, alternatively, the programmer can decrement, by writing `i--`
+
+_While loop_ **example**
+- (Duckett, 176):
+`
+var i=1;  // set counter to 1
+var msg=''; // message
+// store 5 times table in a variable
+while (i<10){
+    msg += i + ' x 5 = ' + (i * 5) + '<br />;
+    i++;
+}
+document.getElementById('answer').innerHTML=msg;
+`
+- the above code will produce the times tables of 5 from 1 to 9. 
