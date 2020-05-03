@@ -42,7 +42,7 @@ HTML webdesign should be smooth.  If it is designed well, it should read like a 
         <h1>This is the first header of the body page</h1>
         <p>anything within the body of a web page is displayed in the main browswer window.</p>
     </body>
-</html>
+  </html>
 
 
 (Duckett, 27)

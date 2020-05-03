@@ -4,9 +4,9 @@ Computrs are tools that make intellectual exercises more efficient.  Compared to
 
 #### Binary 
 
-> 1001 translates to 9 in binary. 
-> 2001 is not binary.  
-> Why?  Binary represents numbers using 1s and 0s.  And so on. 
+>   1001 translates to 9 in binary. 
+    2001 is not binary.  
+    Why?  Binary represents numbers using 1s and 0s.  And so on. 
 
 ###### Smaller circuits and faster processing. 
 
@@ -22,6 +22,6 @@ Four steps are key to computer functionality
 1. storage
 1. processing
 1. output
-> these four steps allow humans to use computuers without having to understand everything.  Simply, input, "wait" for output, and then recieve output.  Usually, the output is very quick.  
+> these four steps allow humans to use computuers without having to        understand everything.  Simply, input, "wait" for output, and then recieve output.  Usually, the output is very quick.  
 
 
